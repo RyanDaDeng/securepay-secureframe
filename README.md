@@ -20,6 +20,9 @@ Ryandadeng\Securepayframe\SecurePayFrameServiceProvider::class
 ```
 2. run `php artisan vendor:publish --provider="Ryandadeng\Securepayframe\SecurePayFrameServiceProvider"`
 
+# Set up for Laravel >= 5.5
+Just run `php artisan vendor:publish --provider="Ryandadeng\Securepayframe\SecurePayFrameServiceProvider"`
+
 # Guideline - How to use
 1. Create an implmentation class for SecurePayCustomDataInterface
 2. Implement your own custom dynamic data
