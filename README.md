@@ -13,17 +13,17 @@ A SecureFrame solution for SecurePay.
 }
 ```
 
-# Set up for Laravel <= 5.4
+## Set up for Laravel <= 5.4
 1. In /config/app.php, add the following to providers:
 ```sh
 Ryandadeng\Securepayframe\SecurePayFrameServiceProvider::class
 ```
 2. run `php artisan vendor:publish --provider="Ryandadeng\Securepayframe\SecurePayFrameServiceProvider"`
 
-# Set up for Laravel >= 5.5
+## Set up for Laravel >= 5.5
 Just run `php artisan vendor:publish --provider="Ryandadeng\Securepayframe\SecurePayFrameServiceProvider"`
 
-# Guideline - How to use
+## Guideline - How to use
 1. Create an implmentation class for SecurePayCustomDataInterface
 2. Implement your own custom dynamic data
 3. For return URL, please provide your own route url.
