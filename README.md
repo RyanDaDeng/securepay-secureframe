@@ -42,7 +42,7 @@ class SecurePayFrameController
 {
 
 
-    // GET
+    // GET - used to populate SecurePay by using SecureFrame
     public function send()
     {
         $send = SecurePayFactory::send(new SecurePaySecurePayCustomData());
@@ -50,7 +50,7 @@ class SecurePayFrameController
     }
 
 
-    // POST
+    // POST - This route will be hooked when SecurePay return response. This request should not be accessed publicly which means it should not be have any auth middleware attached.
     public function receive(Request $request)
     {
         // test received data
@@ -64,3 +64,4 @@ class SecurePayFrameController
     }
 }
 ```
+5. Register your two routes for send and receive request respectively.
