@@ -12,5 +12,6 @@
 ```
 
 # Set up
-
+```sh
 php artisan vendor:publish --provider="Ryandadeng\Securepayframe\SecurePayFrameServiceProvider"
+```
