@@ -1,4 +1,4 @@
-# securepayframe
+# SecurePayFrame
 
 A SecureFrame solution for SecurePay.
 
