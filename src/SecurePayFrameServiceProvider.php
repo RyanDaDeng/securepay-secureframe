@@ -1,6 +1,6 @@
 <?php
 
-namespace Ryandadeng\Securepayframe;
+namespace Ryandadeng\SecurepaySecureframe;
 
 use Illuminate\Support\ServiceProvider;
 

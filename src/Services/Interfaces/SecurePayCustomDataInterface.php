@@ -6,7 +6,7 @@
  * Time: 4:13 PM
  */
 
-namespace Ryandadeng\Securepayframe\Services\Interfaces;
+namespace Ryandadeng\SecurepaySecureframe\Services\Interfaces;
 
 
 interface SecurePayCustomDataInterface

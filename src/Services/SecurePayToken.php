@@ -6,9 +6,10 @@
  * Time: 11:12 AM
  */
 
-namespace Ryandadeng\Securepayframe\Services;
+namespace Ryandadeng\SecurepaySecureframe\Services;
 
-use App\SecurePay\interfaces\SecurePayTokenInterface;
+
+use Ryandadeng\SecurepaySecureframe\Services\interfaces\SecurePayTokenInterface;
 
 class SecurePayToken implements SecurePayTokenInterface
 {

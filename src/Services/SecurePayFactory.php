@@ -2,7 +2,7 @@
 
 namespace Ryandadeng\Securepayframe\Services;
 
-use Ryandadeng\Securepayframe\Services\Interfaces\SecurePayCustomDataInterface;
+use Ryandadeng\SecurepaySecureframe\Services\Interfaces\SecurePayCustomDataInterface;
 
 
 /**

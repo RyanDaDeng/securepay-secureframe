@@ -1,6 +1,6 @@
 <?php
 
-namespace Ryandadeng\Securepayframe\Services;
+namespace Ryandadeng\SecurepaySecureframe\Services;
 
 use Carbon\Carbon;
 use Ryandadeng\Securepayframe\Services\Interfaces\SecurePayCustomDataInterface;

@@ -6,8 +6,7 @@
  * Time: 4:13 PM
  */
 
-namespace App\SecurePay\interfaces;
-
+namespace Ryandadeng\SecurepaySecureframe\Services\interfaces;
 
 interface SecurePayTokenInterface
 {
