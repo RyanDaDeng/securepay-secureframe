@@ -9,7 +9,7 @@
 
 return [
     'is_live' => false,
-    'merchant_id' => 'IXK0009',
-    'test_password' => 'odVFMpLQ',
-    'live_password' => '0O0lJak3'
+    'merchant_id' => '',
+    'test_password' => '',
+    'live_password' => ''
 ];
