@@ -1,5 +1,5 @@
 {
-  "name": "ryandadeng/securepayframe",
+  "name": "ryandadeng/securepay-secureframe",
   "description": "SecurePay SecureFrame for Laravel 5",
   "keywords": [
     "securepay",
@@ -7,7 +7,7 @@
     "securepay secureframe",
     "securepay iframe"
   ],
-  "homepage": "https://github.com/RyanDaDeng/securepayframe",
+  "homepage": "https://github.com/RyanDaDeng/securepay-secureframe",
   "license": "MIT",
   "authors": [
     {
@@ -28,7 +28,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Ryandadeng\\Securepayframe\\SecurePayFrameServiceProvider"
+        "Ryandadeng\\SecurepaySecureframe\\SecurePayFrameServiceProvider"
       ]
     }
   }
