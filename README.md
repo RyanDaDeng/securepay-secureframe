@@ -8,7 +8,7 @@ A SecureFrame solution for SecurePay.
 ```sh
 {
     "require": {
-        "ryandadeng/securepayframe": "dev-master"
+        "ryandadeng/securepay-secureframe": "dev-master"
     }
 }
 ```
