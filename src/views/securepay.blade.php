@@ -1,14 +1,12 @@
-<head>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-</head>
+
 <script>
-    $(document).ready(function () {
-        document.checkout_confirmation.submit();
-    });
+    window.onload = function () {
+        document.getElementById('checkout_confirmation').submit();
+    }
 </script>
 
 <div>
-    <form name="checkout_confirmation"
+    <form id="checkout_confirmation"
           action="{{$result['action']}}"
           method="post"
           target="secureframe">
