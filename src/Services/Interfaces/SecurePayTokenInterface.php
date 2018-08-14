@@ -1,10 +1,4 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: rayndeng
- * Date: 3/8/18
- * Time: 4:13 PM
- */
 
 namespace Ryandadeng\SecurepaySecureframe\Services\interfaces;
 

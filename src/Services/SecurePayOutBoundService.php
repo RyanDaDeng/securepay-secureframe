@@ -5,7 +5,6 @@ namespace Ryandadeng\SecurepaySecureframe\Services;
 /**
  * Ref: https://www.securepay.com.au/wp-content/uploads/2017/06/SecureFrame_Integration_Guide.pdf
  * Class SecurePayService
- * @package Inkstation\SecurePay\Services
  */
 class SecurePayOutBoundService
 {
