@@ -3,11 +3,7 @@
 namespace Ryandadeng\SecurepaySecureframe\Services;
 
 use Carbon\Carbon;
-use Ryandadeng\Securepayframe\Services\Interfaces\SecurePayCustomDataInterface;
-use Store;
-use Cart;
-use Auth;
-
+use Ryandadeng\SecurepaySecureframe\Services\Interfaces\SecurePayCustomDataInterface;
 
 /**
  * Ref: https://www.securepay.com.au/wp-content/uploads/2017/06/SecureFrame_Integration_Guide.pdf
